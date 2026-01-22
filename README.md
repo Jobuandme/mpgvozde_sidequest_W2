@@ -1,5 +1,5 @@
-## Side Quest Week 2: Very Angry Blob
-Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
+## Project Title
+Side Quest Week 2: Very Angry Blob
 
 ---
 ## Description
@@ -15,5 +15,5 @@ N/A
 
 ---
 ## References
-Connect your in-text citations to the reference list along with additional sources that informed your design but were not directly cited. Provide all citations using the ACM reference format. 
+N/A
 
